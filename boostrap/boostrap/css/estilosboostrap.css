@@ -1,0 +1,58 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: normal;
+}
+
+h1  {
+  color: #026fff;
+}
+body{
+  color: grey;
+  background-color: black;
+}
+
+#header img {
+  width: 60px;
+}
+
+.text-david{
+  color: blue !important;
+}
+.jumbotron {
+  color: white;
+
+  background-color: #1b2127;
+}
+.row {
+  border: 1px solid gray;
+  border-radius: 10px;
+
+
+}
+
+.col-12 {
+  border: 1px solid gray;
+  border-radius: 10px;
+
+
+}
+.container{
+  margin-bottom: 20px;
+}
+.page-footer{
+
+  color: white;
+  background-color: #1b2127;
+
+}
+.footer-container{
+  color: white;
+}
+.btn{
+  color: white;
+}
