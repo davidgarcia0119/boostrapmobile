@@ -11,6 +11,22 @@ h6{
 h1  {
   color: #026fff;
 }
+body{
+  color: grey;
+  background-color: black;
+}
+
+#header img {
+  width: 60px;
+}
+ #main .carousel-inner img{
+  max-height: 90vh;
+  object-fit: cover;
+}
+
+.text-david{
+  color: blue !important;
+}
 .jumbotron {
   color: white;
 
