@@ -13,7 +13,7 @@ h1  {
 }
 body{
   color: grey;
-  background-color: black;
+  background-color: white;
 }
 
 #header img {
@@ -28,13 +28,13 @@ body{
   color: blue !important;
 }
 .jumbotron {
-  color: white;
+  color: black;
 
   background-color: #1b2127;
 }
 .row {
-  border: 1px solid gray;
   border-radius: 10px;
+  margin-right: 20px;
 
 
 }
@@ -47,6 +47,7 @@ body{
 }
 .container{
   margin-bottom: 20px;
+
 }
 .page-footer{
 
@@ -59,4 +60,7 @@ body{
 }
 .btn{
   color: white;
+}
+.Card{
+  margin:10px;
 }
