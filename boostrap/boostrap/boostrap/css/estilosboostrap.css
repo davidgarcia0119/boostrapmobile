@@ -1,0 +1,68 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: normal;
+}
+
+h1  {
+  color: #026fff;
+}
+body{
+  color: grey;
+  background-color: white;
+}
+
+#header img {
+  width: 60px;
+}
+ #main .carousel-inner img{
+  max-height: 90vh;
+  object-fit: cover;
+}
+
+.text-david{
+  color: blue !important;
+}
+.jumbotron {
+  color: black;
+
+  background-color: #1b2127;
+}
+.row {
+  border-radius: 10px;
+
+
+}
+
+
+
+.container{
+  margin-bottom: 20px;
+
+}
+.page-footer{
+
+  color: white;
+  background-color: #1b2127;
+
+}
+#foto-texto{
+  background-color: grey;
+  color: white;
+}
+#foto-texto img{
+  max-width: 100%;
+}
+.footer-container{
+  color: white;
+}
+.btn{
+  color: white;
+}
+.Card{
+  margin:10px;
+}
